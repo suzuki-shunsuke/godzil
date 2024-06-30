@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.20.16](https://github.com/suzuki-shunsuke/godzil/compare/v0.20.15...v0.20.16) - 2024-06-30
+- ci: set timeout-minutes using ghatm by @suzuki-shunsuke in https://github.com/suzuki-shunsuke/godzil/pull/1
+
 ## [v0.20.15](https://github.com/Songmu/godzil/compare/v0.20.14...v0.20.15) - 2023-10-08
 - update templates by @Songmu in https://github.com/Songmu/godzil/pull/93
 - Go 1.21 and update deps by @Songmu in https://github.com/Songmu/godzil/pull/95
